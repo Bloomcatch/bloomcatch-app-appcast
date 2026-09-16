@@ -3,19 +3,19 @@
   <channel>
     <title>BloomCatch - Appcast</title>
     <item>
-      <title>Version 22.0.0</title>
+      <title>Version 23.0.0</title>
       <description>Latest updates and improvements.</description>
-      <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://play.google.com/store/apps/details?id=com.bloomcatch" sparkle:version="22.0.0" sparkle:os="android" />
+      <pubDate>Mon, 31 Aug 2026 12:00:00 +0000</pubDate>
+      <enclosure url="https://play.google.com/store/apps/details?id=com.bloomcatch" sparkle:version="23.0.0" sparkle:os="android" />
       <sparkle:tags>
         <sparkle:criticalUpdate />
       </sparkle:tags>
     </item>
     <item>
-      <title>Version 18.1.1</title>
+      <title>Version 23.0.0</title>
       <description>Latest updates and improvements.</description>
-      <pubDate>Mon, 09 Mar 2026 12:00:00 +0000</pubDate>
-      <enclosure url="https://apps.apple.com/us/app/bloomcatch-plant-geeks/id1252272906" sparkle:version="22.0.0" sparkle:os="ios" />
+      <pubDate>Tue, 01 Sep 2026 16:25:57 +0000</pubDate>
+      <enclosure url="https://apps.apple.com/us/app/bloomcatch-plant-geeks/id1252272906" sparkle:version="23.0.0" sparkle:os="ios" />
       <sparkle:tags>
         <sparkle:criticalUpdate />
       </sparkle:tags>
